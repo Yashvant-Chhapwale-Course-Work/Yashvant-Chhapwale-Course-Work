@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I’m currently a student, and here you'll find repositories showcasing my coursework and projects. This space serves as my journey through different courses, where I explore and practice various concepts in programming, data science, and more.
+I’m Yashvant Chhapwale, currently a student, and here you'll find repositories showcasing my coursework and projects. This space serves as my journey through different courses, where I explore and practice various concepts in programming, data science, and more.
 
 ### 📘 Coursework Highlights
 
