@@ -14,6 +14,8 @@ I’m **Yashvant Chhapwale**, currently a **student**, and here you'll find repo
 ### 🌱 Currently Learning
 
 - Python
+- MERN
+- SQL
 <br>
 
 ### 🚀 Future Goals
