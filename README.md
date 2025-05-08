@@ -7,8 +7,9 @@ I’m **Yashvant Chhapwale**, currently a **student**, and here you'll find repo
 
 ### 📘 Coursework Highlights
 
-- **`Core Java:`** Developed a solid foundation in Java programming, covering object-oriented principles, data structures, exception handling, and core libraries.
-- **`Custom_Tkinter (Python_UI):`** Gained practical experience in building modern, responsive user interfaces using CustomTkinter, focusing on custom themes, widget styling, layout management, and seamless integration with Python backend logic.
+- [**`Core Java:`**](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava) Developed a solid foundation in Java programming, covering object-oriented principles, data structures, exception handling, and core libraries.
+- [**`Custom_Tkinter (Python_UI):`**](https://github.com/Yashvant-Chhapwale-Course-Work/Custom-Tkinter) Gained practical experience in building modern, responsive user interfaces using CustomTkinter, focusing on custom themes, widget styling, layout management, and seamless integration with Python backend logic.
+- [**`Source Control (Git/GitHub)`**:](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts) Gained hands-on experience with version control using Git and GitHub, including repository management, branching and merging, resolving conflicts, pull requests, and collaborating on open-source projects.
 <br>
 
 ### 🌱 Currently Learning
