@@ -11,6 +11,7 @@ I’m **Yashvant Chhapwale**, currently a **student**, and here you'll find repo
 - [**`Custom_Tkinter (Python_UI):`**](https://github.com/Yashvant-Chhapwale-Course-Work/Custom-Tkinter) Gained practical experience in building modern, responsive user interfaces using CustomTkinter, focusing on custom themes, widget styling, layout management, and seamless integration with Python backend logic.
 - [**`Source Control (Git/GitHub)`**:](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts) Gained hands-on experience with version control using Git and GitHub, including repository management, branching and merging, resolving conflicts, pull requests, and collaborating on open-source projects.
 - [**`Tailwind_CSS`**:](https://github.com/Yashvant-Chhapwale-Course-Work/Tailwind_CSS) Designed Clean, Responsive User_Interfaces using Tailwind’s Utility-First Classes; Customized Themes, Managed Layouts, and Optimized Components for Consistency and Reuse.
+- [**`Flutter & Dart`**:](https://github.com/Yashvant-Chhapwale-Course-Work/Flutter) Documenting my learnings, experiments, and progress in Dart programming and Flutter app development, including scripts and projects that showcase my journey from beginner to professional.  
 <br>
 
 ### 🌱 Currently Learning
@@ -18,6 +19,7 @@ I’m **Yashvant Chhapwale**, currently a **student**, and here you'll find repo
 - Python
 - MERN
 - SQL
+- Flutter & DART
 <br>
 
 ### 🚀 Future Goals
